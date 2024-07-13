@@ -1,5 +1,6 @@
 # Literalura
 segundo challenge de Alura de la segunda parte de la formacion.
+(El Challenge se encuentra en la segunda branch: master)
 
 literalura es un programa que ejecuta un API de Gutendex que almacena una enorme cantidad de datos de libros
 este programa permite buscar en este API libros del interes del usuario para luego almacenar esos datos y poder consultar tus busquedas despues:
